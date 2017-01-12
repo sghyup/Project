@@ -5,7 +5,7 @@ import update from 'react-addons-update';
 import ContactCreate from './ContactCreate';
 
 export default class Contact extends React.Component {
-  // 깃테스트 중
+  // 깃테스트 중이다
   constructor(props) {
     super(props);
     this.state= {
